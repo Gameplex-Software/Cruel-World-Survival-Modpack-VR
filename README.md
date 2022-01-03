@@ -4,3 +4,14 @@
 
 ## Cruel World Survival Built for VR headsets
 ### This is an UNTESTED pre-release, any bugs should be reported immediatly!
+
+Simply open your minecraft folder
+
+## Mac
+  ~/Library/Application Support/minecraft
+
+## Windows
+	%APPDATA%\.minecraft
+
+## Linux
+  ~/.minecraft
