@@ -1,5 +1,7 @@
 # Cruel World Survival Story VR
 
+## This project is currently mac only!
+
 ![steamvr-headset-support-play-area-input](https://user-images.githubusercontent.com/34868944/147981170-0cb8c5a6-b21e-4211-8ce6-460a9d20c9ab.jpg)
 
 ## Cruel World Survival Built for VR headsets
@@ -12,13 +14,7 @@ Simply open your minecraft folder:
 
 ## Mac
   	~/Library/Application Support/minecraft
-
-## Windows
-	%APPDATA%\.minecraft
-
-## Linux
-  	~/.minecraft
-
+	
 # Step: 2
  Move all files in your minecraft folder to a safe location where you can replace them later and copy the files in this repository into the folder in their place.
  
