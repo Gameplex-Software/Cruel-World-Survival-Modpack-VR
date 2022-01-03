@@ -8,10 +8,10 @@
 Simply open your minecraft folder
 
 ## Mac
-  ~/Library/Application Support/minecraft
+  	~/Library/Application Support/minecraft
 
 ## Windows
 	%APPDATA%\.minecraft
 
 ## Linux
-  ~/.minecraft
+  	~/.minecraft
