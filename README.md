@@ -1,4 +1,4 @@
-# Immersive Railroading was removed from mods folder on GitHub due to size, please re-add it
+# Immersive Railroading was removed from mods folder on GitHub due to size, please re-add it after downloading
 
 ![Screen Shot 2021-07-15 at 1 49 24 PM](https://user-images.githubusercontent.com/34868944/151664875-951d4348-a898-44a7-87ab-717cd8e91570.png)
 
